@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@line/liff": "^2.5.0"
+  }
+}
